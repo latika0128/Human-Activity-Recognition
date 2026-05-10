@@ -105,12 +105,13 @@ Models evaluated using:
 
 ---
 📈 Applications
-Fitness Tracking
-Smart Healthcare
-Elderly Monitoring Systems
-Wearable Devices
-Sports Analytics
-IoT-based Smart Systems
+• Fitness Tracking
+• Smart Healthcare
+• Elderly Monitoring Systems
+• Wearable Devices
+• Sports Analytics
+• IoT-based Smart Systems
+---
 
 📌 Conclusion
 
