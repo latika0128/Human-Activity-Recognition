@@ -104,12 +104,14 @@ Models evaluated using:
 - Model accuracy comparison
 
 ---
+📈 Applications
+Fitness Tracking
+Smart Healthcare
+Elderly Monitoring Systems
+Wearable Devices
+Sports Analytics
+IoT-based Smart Systems
 
-# 🧪 ANN Compilation
+📌 Conclusion
 
-```python
-ann.compile(
-    optimizer='adam',
-    loss='sparse_categorical_crossentropy',
-    metrics=['accuracy']
-)
+This project successfully classifies human activities using Machine Learning and Deep Learning techniques. The ANN model demonstrated strong classification performance and highlighted the importance of Deep Learning in real-world sensor-based applications.
