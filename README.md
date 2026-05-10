@@ -104,7 +104,7 @@ Models evaluated using:
 - Model accuracy comparison
 
 ---
-📈 Applications
+## 📈 Applications
 • Fitness Tracking
 • Smart Healthcare
 • Elderly Monitoring Systems
